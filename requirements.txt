@@ -1,0 +1,9 @@
+Keras
+numpy
+scikit-learn
+scipy
+seaborn
+matplotlib
+
+black
+pylint
